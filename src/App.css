@@ -1,0 +1,10 @@
+.logoContainer {
+  display: block;
+  width: 150px;
+  height: 60px;
+  margin-left: 10px;
+}
+
+.logo {
+  width: 100%;
+}

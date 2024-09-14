@@ -1,0 +1,18 @@
+.header {
+  position: relative;
+}
+
+.imageContainer {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -50px;
+}
+
+.dataContainer {
+  border-radius: 10px;
+}
+
+.backAndName {
+  z-index: 2;
+}
